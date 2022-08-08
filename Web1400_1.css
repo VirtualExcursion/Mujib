@@ -1,0 +1,349 @@
+.mediaViewInfo {
+	--web-view-name: Web1400-1;
+	--web-view-id: Web1400-1;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web1400-1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Web1400-1 {
+	position: absolute;
+	width: 1400px;
+	height: 6155px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: 1400_2.html;
+	cursor: default;
+	--web-view-name: Web1400-1;
+	--web-view-id: Web1400-1;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#backdrop {
+	fill: transparent;
+}
+.backdrop {
+	position: absolute;
+	overflow: visible;
+	width: 1400px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Bildlaufgruppe_2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920.556px;
+	height: 1080px;
+	left: -260.075px;
+	top: 0px;
+	overflow: hidden;
+}
+#Gruppe_2 {
+	position: absolute;
+	width: 11520px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pictures {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pictures_t {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 1920px;
+	top: 0px;
+	overflow: visible;
+}
+#pictures_u {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 3840px;
+	top: 0px;
+	overflow: visible;
+}
+#pictures_v {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 5760px;
+	top: 0px;
+	overflow: visible;
+}
+#pictures_w {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 7680px;
+	top: 0px;
+	overflow: visible;
+}
+#pictures_x {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 9600px;
+	top: 0px;
+	overflow: visible;
+}
+#Mujib_Basin {
+	left: 260.313px;
+	top: 669px;
+	position: absolute;
+	overflow: visible;
+	width: 881px;
+	height: 79px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}
+#Virtual_Excursion {
+	left: 260.313px;
+	top: 558px;
+	position: absolute;
+	overflow: visible;
+	width: 881px;
+	height: 110px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(255,255,255,1);
+}
+#Mujib_Dam_Reservoir_is_used_as {
+	left: 153.125px;
+	top: 2263px;
+	position: absolute;
+	overflow: hidden;
+	width: 1094.75px;
+	height: 3330px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Gruppe_5 {
+	position: absolute;
+	width: 543.229px;
+	height: 974px;
+	left: 160.964px;
+	top: 1160px;
+	overflow: visible;
+}
+#Figure_1_Wastewater_Treatment_ {
+	left: 0px;
+	top: 854px;
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 120px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#River_Network_Mujib {
+	position: absolute;
+	width: 543.229px;
+	height: 768.542px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#The_Mujib_Basin_plays_a_major_ {
+	left: 755.599px;
+	top: 1160px;
+	position: absolute;
+	overflow: visible;
+	width: 484.438px;
+	height: 794px;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Figure_2_The_Mujib_Basin_Aquif {
+	left: 761.068px;
+	top: 2031px;
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 60px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#menu {
+	position: absolute;
+	width: 1012px;
+	height: 60px;
+	left: 0px;
+	top: 15px;
+	overflow: visible;
+}
+#Rechteck_3 {
+	fill: rgba(255,255,255,1);
+}
+.Rechteck_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1012px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Wiederholungsraster_1 {
+	position: absolute;
+	width: 719px;
+	height: 41px;
+	left: 273px;
+	top: 12px;
+	overflow: hidden;
+}
+#Group {
+	position: absolute;
+	width: 153px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mujib_Basin_ba {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 56px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_bb {
+	position: absolute;
+	width: 153px;
+	height: 56px;
+	left: 188px;
+	top: 0px;
+	overflow: visible;
+}
+#Locations {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 56px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_bd {
+	position: absolute;
+	width: 153px;
+	height: 56px;
+	left: 376px;
+	top: 0px;
+	overflow: visible;
+}
+#Topics {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 56px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_bf {
+	position: absolute;
+	width: 153px;
+	height: 56px;
+	left: 564px;
+	top: 0px;
+	overflow: visible;
+}
+#Allocation {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 56px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Zeichenflche_1 {
+	position: absolute;
+	width: 143.319px;
+	height: 67.626px;
+	left: 1228px;
+	top: 133px;
+	overflow: visible;
+}
+#Artboard_110x {
+	position: absolute;
+	width: 125px;
+	height: 67.626px;
+	left: 1228px;
+	top: 45px;
+	overflow: visible;
+}
